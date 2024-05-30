@@ -22,3 +22,5 @@
 <div align="center">
 <h2>과제 결과</h2>
 </div>
+<p align="center"><img src="https://github.com/HYWCL/Intramural-competition/assets/86766552/dfc8f15e-9dad-45dd-8314-d1c71e5631b3"/></p>
+<p align="center"><img src="https://github.com/HYWCL/Intramural-competition/assets/86766552/fda6909a-50c2-47b8-b587-21ce483a62e0"/></p>
